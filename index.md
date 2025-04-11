@@ -1,5 +1,8 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+ _   _ _   _____ _              ___  _           
+| | | (_) |_   _( )            / _ \| |          
+| |_| |_    | | |/ _ __ ___   / /_\ \ | _____  __
+|  _  | |   | |   | '_ ` _ \  |  _  | |/ _ \ \/ /
+| | | | |  _| |_  | | | | | | | | | | |  __/>  < 
+\_| |_/_|  \___/  |_| |_| |_| \_| |_/_|\___/_/\_\
+                                                 
+                                                 
